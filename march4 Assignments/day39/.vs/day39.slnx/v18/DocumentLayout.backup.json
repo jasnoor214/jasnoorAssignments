@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\day39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\migrations\\20260302053228_added 3 tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302053228_added 3 tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\migrations\\20260302044325_dbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302044325_dbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|c:\\users\\dell\\source\\repos\\day39\\codefirstefdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|codefirstefdemo\\codefirstefdemo.csproj|solutionrelative:codefirstefdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\ProductRepository.cs",
+              "RelativeToolTip": "codefirstefdemo\\ProductRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:12:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\IProductRepository.cs",
+              "RelativeToolTip": "codefirstefdemo\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:10:56.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Program.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Program.cs*",
+              "RelativeToolTip": "codefirstefdemo\\Program.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:09:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "course.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\course.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Models\\course.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\course.cs",
+              "RelativeToolTip": "codefirstefdemo\\Models\\course.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:19:18.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260302053228_added 3 tables.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Migrations\\20260302053228_added 3 tables.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Migrations\\20260302053228_added 3 tables.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Migrations\\20260302053228_added 3 tables.cs",
+              "RelativeToolTip": "codefirstefdemo\\Migrations\\20260302053228_added 3 tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:32:28.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\student.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Models\\student.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\student.cs",
+              "RelativeToolTip": "codefirstefdemo\\Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:19:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "author.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\author.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Models\\author.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\author.cs",
+              "RelativeToolTip": "codefirstefdemo\\Models\\author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:18:54.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "codefirstefdemo\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:28:29.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\Product.cs",
+              "RelativeToolTip": "codefirstefdemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:23:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260302044325_dbcreated.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Migrations\\20260302044325_dbcreated.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Migrations\\20260302044325_dbcreated.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Migrations\\20260302044325_dbcreated.cs",
+              "RelativeToolTip": "codefirstefdemo\\Migrations\\20260302044325_dbcreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:43:25.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "codefirstefdemo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\day39\\codefirstefdemo\\Models\\Category.cs",
+              "RelativeToolTip": "codefirstefdemo\\Models\\Category.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:21:33.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
